@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "1094701139639",
+    "firebase_url": "https://beforixopticinc-default-rtdb.firebaseio.com",
+    "project_id": "beforixopticinc",
+    "storage_bucket": "beforixopticinc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094701139639:android:27994d03277faa2864af32",
+        "android_client_info": {
+          "package_name": "com.azamovhudstc.beforixinc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094701139639-l3ie91m4fjbbmo96qtm2p2v0gbv8opqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azamovhudstc.beforixinc",
+            "certificate_hash": "47b9a94e73c09e2a495c73b2c42d1986bf26e70e"
+          }
+        },
+        {
+          "client_id": "1094701139639-0eqhv9u3h5u79eqjsl7gob1q8itj8roe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqFdM_RLL7EK4fCt6Rz8wYL5O8_oUNyFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094701139639-0eqhv9u3h5u79eqjsl7gob1q8itj8roe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094701139639:android:5379f05ddf125fcb64af32",
+        "android_client_info": {
+          "package_name": "com.azamovhudstc.readandsearchfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094701139639-0eqhv9u3h5u79eqjsl7gob1q8itj8roe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqFdM_RLL7EK4fCt6Rz8wYL5O8_oUNyFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094701139639-0eqhv9u3h5u79eqjsl7gob1q8itj8roe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094701139639:android:6da524e4e30f670d64af32",
+        "android_client_info": {
+          "package_name": "com.gifetim.beeforix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094701139639-q5evlhpum68rfdjsukmrevpcj3i5c71p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gifetim.beeforix",
+            "certificate_hash": "47b9a94e73c09e2a495c73b2c42d1986bf26e70e"
+          }
+        },
+        {
+          "client_id": "1094701139639-0eqhv9u3h5u79eqjsl7gob1q8itj8roe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqFdM_RLL7EK4fCt6Rz8wYL5O8_oUNyFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094701139639-0eqhv9u3h5u79eqjsl7gob1q8itj8roe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

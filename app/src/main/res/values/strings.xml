@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BeeForix</string>
+
+    //Headings
+    <string name="heading_one">BeeForix  </string>
+    <string name="heading_two">Privacy and Policy</string>
+    <string name="heading_three">Xavfsiz O`tkazmalar</string>
+    <string name="heading_fourth">Comofort Interface</string>
+
+    <string name="title_onboarding_1">Welcome to Onboarding App ! </string>
+    <string name="description_onboarding_1">Here is an open-source project which shows sweet &amp; original onboarding ViewPagers that follows Material Design Guidelines</string>
+
+    <string name="title_onboarding_2">Try AirBnB Lottie</string>
+    <string name="description_onboarding_2">We use Lottie Animations on our Intro to make it interactive &amp; pleasant. Did you already tried it ? If no, let\'s start now. It\'s just awesome</string>
+
+    <string name="title_onboarding_3">Code beautiful apps</string>
+    <string name="description_onboarding_3">Our mission is to make useful &amp; subtle apps. We love help people to save time with open-source stuffs, but we also make life easier by creating new things. Good Coding!</string>
+
+    <string name="start_text_advice">By continuing on this application you agree to our Terms of Use and Privacy Policy</string>
+
+    <string name="start">start</string>
+    <string name="skip">Skip</string>
+    <string name="finish">finish</string>
+    <string name="next">next</string>
+    <string name="back">back</string>
+
+    //Description
+    <string name="desc_one">Bu Ilova insonlarga qulaylik uchun yaratilgan !</string>
+    <string name="desc_two">Siz ro`yxatdan o`tish va obuna bo`lishingiz orqali bizning maxfiylik siyosatimizga rozi bo`lasiz. biz sizning malumotlaringizn albatta ximoya qilamiz !</string>
+    <string name="desc_three">Siz bizning ishonchli va xavfsiz transferlarimizdan foydalanishingiz mumkin.Obuna bo`ling va bizning sifatli xizmatimizdan foydalaning! </string>
+    <string name="desc_fourth">Qulay dizayn. </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
